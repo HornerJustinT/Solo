@@ -1,3 +1,8 @@
 .clickButton{
     font-size: 20px;
 }
+/* Event handler . ready has when ready. $(document).ready(onReady);
+onReady() {
+    console.log('JQ');
+ } 
+ dom = document object model*/
